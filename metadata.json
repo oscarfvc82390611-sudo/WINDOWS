@@ -1,0 +1,8 @@
+{
+  "name": "DominaWin 11",
+  "description": "Aplicación interactiva y gamificada en español para principiantes que enseña todas las partes de Windows 11, el Explorador de archivos, ventanas de diálogo, carpetas y subcarpetas con ejercicios y cuestionarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
